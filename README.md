@@ -119,7 +119,7 @@ Supreme_Lab/
 - **[Ollama](https://ollama.ai)** (локальный LLM сервер)
 - **Telegram Bot Token** (от [@BotFather](https://t.me/BotFather))
 - **~10 GB** свободного места (модели + зависимости)
-- **8+ GB RAM** (для работы моделей)
+- **16+ GB RAM** (для работы моделей)
 
 ### Модели Ollama:
 - `qwen2.5:7b-instruct-q4_K_M` (обычный режим)
@@ -250,3 +250,4 @@ Contributions are welcome! Feel free to:
 
 
 > Made with [Ollama](https://ollama.ai) & [Claude](https://claude.ai)
+
