@@ -14,7 +14,7 @@
 
 ### 1️⃣ Скопируйте проект
 ```bash
-git clone https://github.com/notebookastana/tor-bot.git
+git clone https://github.com/notebookastana/tor-telegram-llm-bot.git
 cd tor-bot
 ```
 
@@ -276,7 +276,7 @@ Contributions are welcome! Feel free to:
 
 ## 📮 Контакты
 
-- **Issues**: [GitHub Issues](https://github.com/notebookastana/tor-bot/issues)
+- **Issues**: [GitHub Issues](https://github.com/notebookastana/tor-telegram-llm-bot/issues)
 - **Telegram**: [@bauyrzhan_khamzin](https://t.me/bauyrzhan_khamzin)
 - **GitHub**: [@notebookastana](https://github.com/notebookastana)
 
@@ -286,6 +286,7 @@ Contributions are welcome! Feel free to:
 
 
 > Made with [Ollama](https://ollama.ai) & [Claude](https://claude.ai)
+
 
 
 
